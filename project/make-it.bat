@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=edu.byui.cit360 -DartifactId=eagleTracker -DarchetypeArtifactId=maven-archetype-simple -DinteractiveMode=false
