@@ -1,0 +1,16 @@
+Week 9 
+Week of 6/18
+
+I have been working to play catch up on my various code topics.  
+Trying to get my head around them sometimes is a challenge but a fun on (most of the time).
+
+Code URL:
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Application%20Controller%20Pattern/Sandbox-Mine
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Client%20and%20Server%20Sockets/Sandbox-Mine
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/HTTP%20URLConnection/Sandbox-Mine
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/JSON%20Serialization/Sandbox-Mine
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/JUnit%20Tests/Sandbox-Mine
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Java%20Collections/Sandbox-Mine
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Model%20View%20Controller%20Pattern/Sandbox-Mine
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Threads%20-%20Executors%20-%20Runnables%20-%20Handlers/Sandbox-Mine
