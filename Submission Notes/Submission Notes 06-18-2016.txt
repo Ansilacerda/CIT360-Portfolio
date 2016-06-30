@@ -2,7 +2,7 @@ Week 9
 Week of 6/18
 
 I have been working to play catch up on my various code topics.  
-Trying to get my head around them sometimes is a challenge but a fun on (most of the time).
+Trying to get my head around them sometimes is a challenge but a fun one (most of the time).
 
 Code URL:
 https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Application%20Controller%20Pattern/Sandbox-Mine
