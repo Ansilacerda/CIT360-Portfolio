@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Jul 7, 2016 4:24:30 PM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="eagle.entity.Eagle" table="eagle" catalog="thewebb2_cit360" optimistic-lock="version">
+        <id name="id" type="java.lang.Integer">
+            <column name="id" />
+            <generator class="identity" />
+        </id>
+        <property name="eagleType" type="string">
+            <column name="eagle_type" length="30" not-null="true" />
+        </property>
+        <property name="eagleSize" type="string">
+            <column name="eagle_size" length="30" not-null="true" />
+        </property>
+        <property name="eagleDescription" type="string">
+            <column name="eagle_description" length="100" not-null="true" />
+        </property>
+        <property name="countyFound" type="string">
+            <column name="county_found" length="30" not-null="true" />
+        </property>
+        <property name="locationFound" type="int">
+            <column name="location_found" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>
