@@ -25,3 +25,6 @@ Temporary Items
 .apdisk
 /project/EagleTracker/nbproject/private/
 /project/Eagle/target/
+/Client and Server Sockets/Sandbox-Mine/simplesocketclientexample/target/
+/Client and Server Sockets/Sandbox-Mine/TCP-Simple/nbproject/private/
+/Client and Server Sockets/Sandbox-Mine/TCP-Simple/build/
