@@ -1,4 +1,4 @@
-Week of 7/11
+#HTTP URLConnection#
 
 I have been working to play catch up on my various code topics.
 Trying to get my head around them sometimes is a challenge but a fun one (most of the time).
