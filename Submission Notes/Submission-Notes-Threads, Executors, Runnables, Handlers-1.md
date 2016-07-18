@@ -9,5 +9,5 @@
 
 Code URL:
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Threads%20-%20Executors%20-%20Runnables%20-%20Handlers/Sandbox-Mine]()
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Threads%20-%20Executors%20-%20Runnables%20-%20Handlers/Sandbox-Mine
 
