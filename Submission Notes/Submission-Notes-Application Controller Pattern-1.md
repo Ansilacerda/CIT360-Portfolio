@@ -4,4 +4,4 @@ I could not find really good examples of this pattern even with the supplied lin
 
 Code URL:
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Application%20Controller%20Pattern/Sandbox-Mine/AqsaFramework]()
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Application%20Controller%20Pattern/Sandbox-Mine/AqsaFramework
