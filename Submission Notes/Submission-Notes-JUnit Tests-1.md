@@ -3,8 +3,8 @@ The use of JUnit is pretty much a standard in Java.  I wish it was so in other l
 
 Code URL:
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/JUnit%20Tests/Sandbox-Mine/MessageUtil.java]()
+https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/JUnit%20Tests/Sandbox-Mine/MessageUtil.java
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/JUnit%20Tests/Sandbox-Mine/TestJunit.java]()
+https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/JUnit%20Tests/Sandbox-Mine/TestJunit.java
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/JUnit%20Tests/Sandbox-Mine/TestRunner.java]()
+https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/JUnit%20Tests/Sandbox-Mine/TestRunner.java
