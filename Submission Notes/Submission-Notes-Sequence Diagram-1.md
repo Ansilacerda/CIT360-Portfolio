@@ -1,21 +1,9 @@
 #Sequence Diagram
 
-I have been working to play catch up on my various code topics.
-Trying to get my head around them sometimes is a challenge but a fun one (most of the time).
-I have been working on client server sockets.  It's a very interesting topic.  I find that I like Java
-more and more.
+Image URL:
 
-The first 2 files are a simple client server pair.
+[https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/Sequence%20Diagram/Sandbox-Mine/GUI-DB.gif]()
 
-Code URL:
-https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/Client%20and%20Server%20Sockets/Sandbox-Mine/TCP-Simple/src/TCPClient.java
-https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/Client%20and%20Server%20Sockets/Sandbox-Mine/TCP-Simple/src/TCPServer.java
+[https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/Sequence%20Diagram/Sandbox-Mine/dkgpL.png]()
 
-This next code creates a simple swing application that can work as either server (host) or client (guest).
-
-Code URL:
-https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/Client%20and%20Server%20Sockets/Sandbox-Mine/Chat/TCPChat.java
-
-Sharing Video
-
-https://www.youtube.com/watch?v=5psj9_m0A5g
+[https://github.com/Hively-Dan/CIT360-Portfolio/blob/master/Sequence%20Diagram/Sandbox-Mine/sweep_horizontally_2167.png]()
