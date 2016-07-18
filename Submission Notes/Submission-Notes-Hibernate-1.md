@@ -4,14 +4,14 @@ These files show various implementations of the **Hibernate ORM**.  Hibernate is
 
 Code URLs:
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/ContactManager]()
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/ContactManager
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/hibernate-tutorials]()
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/hibernate-tutorials
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/Spring4MVCFileUploadDownloadWithHibernate]()
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/Spring4MVCFileUploadDownloadWithHibernate
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/SpringHibernateExample]()
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/SpringHibernateExample
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/SpringMVCHibernateManyToManyCRUDExample]()
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/SpringMVCHibernateManyToManyCRUDExample
 
-[https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/spr-mvc-hib]()
+https://github.com/Hively-Dan/CIT360-Portfolio/tree/master/Hibernate/Sandbox-Mine/spr-mvc-hib
